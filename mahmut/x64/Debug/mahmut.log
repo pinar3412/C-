@@ -1,0 +1,4 @@
+﻿  binpack_vv4.cpp
+C:\Users\PINAR\source\repos\mahmut\Firstfitdecrease.h(61,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PINAR\source\repos\mahmut\Genetic.h(166,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mahmut.vcxproj -> C:\Users\PINAR\source\repos\mahmut\x64\Debug\mahmut.exe
